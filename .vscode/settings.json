@@ -1,0 +1,186 @@
+{
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "cSpell.allowCompoundWords": true,
+  "cSpell.userWords": [
+    "arktype",
+    "blurhash",
+    "chamiikr",
+    "cillian",
+    "evlog",
+    "iconify",
+    "leung",
+    "lucide",
+    "mdsvex",
+    "Nuxt",
+    "nuxtjs",
+    "ofetch",
+    "oslojs",
+    "oxfmt",
+    "oxlint",
+    "paraglide",
+    "persistedstate",
+    "pinia",
+    "reka",
+    "scule",
+    "shadcn",
+    "Slideover",
+    "Slidev",
+    "taze",
+    "tsgolint",
+    "unovis",
+    "uuidv",
+    "vaul",
+    "vueuse"
+  ],
+  "debug.onTaskErrors": "debugAnyway",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.oxc": "explicit"
+  },
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.fontFamily": "'FiraCode Nerd Font', Consolas, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "errorLens.enabledDiagnosticLevels": [
+    "error",
+    "warning"
+  ],
+  "errorLens.excludeBySource": [
+    "cSpell",
+    "Grammarly"
+  ],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "files.insertFinalNewline": true,
+  "files.simpleDialog.enable": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.untrackedChanges": "separate",
+  "github.copilot.enable": {
+    "*": false,
+    "markdown": true,
+    "plaintext": false,
+    "scminput": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.menus": {
+    "editor": {
+      "blame": false,
+      "clipboard": true,
+      "compare": true,
+      "history": false,
+      "remote": false
+    },
+    "editorGroup": {
+      "blame": true,
+      "compare": false
+    },
+    "editorTab": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
+    },
+    "explorer": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
+    },
+    "scm": {
+      "authors": true
+    },
+    "scmGroup": {
+      "compare": true,
+      "openClose": true,
+      "stash": true
+    },
+    "scmGroupInline": {
+      "stash": true
+    },
+    "scmItem": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": false,
+      "stash": true
+    }
+  },
+  "i18n-ally.autoDetection": false,
+  "i18n-ally.displayLanguage": "en",
+  "i18n-ally.ignoredLocales": [],
+  "oxc.fmt.configPath": ".oxfmtrc.json",
+  "oxc.typeAware": true,
+  "python.analysis.typeCheckingMode": "standard",
+  "remote.autoForwardPortsSource": "hybrid",
+  "search.exclude": {
+    "**/.git": true,
+    "**/.github": false,
+    "**/.nuxt": true,
+    "**/.output": true,
+    "**/.pnpm": true,
+    "**/.vscode": true,
+    "**/.yarn": true,
+    "**/*.snap": true,
+    "**/*.svg": true,
+    "**/assets": true,
+    "**/bower_components": true,
+    "**/CHANGELOG*": true,
+    "**/dist/**": true,
+    "**/LICENSE*": true,
+    "**/logs": true,
+    "**/node_modules": true,
+    "**/out/**": true,
+    "**/package-lock.json": true,
+    "**/pnpm-lock.yaml": true,
+    "**/public": true,
+    "**/temp": true,
+    "**/yarn.lock": true
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "tailwindCSS.classAttributes": [
+    "class",
+    "ui"
+  ],
+  "tailwindCSS.classFunctions": [
+    "cn",
+    "defineAppConfig"
+  ],
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cwd": "",
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "terminal.integrated.splitCwd": "workspaceRoot",
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.dialogStyle": "custom",
+  "window.title": "${rootName}",
+  "window.zoomLevel": 1,
+  "window.zoomPerWindow": false,
+  "workbench.colorTheme": "Dark Modern",
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.limit.value": 5,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.secondarySideBar.defaultVisibility": "hidden"
+}
