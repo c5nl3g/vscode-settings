@@ -1,4 +1,7 @@
 {
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
   },
@@ -11,6 +14,10 @@
     "blurhash",
     "chamiikr",
     "cillian",
+    "clsx",
+    "demi",
+    "dotenv",
+    "esbuild",
     "evlog",
     "iconify",
     "leung",
@@ -39,6 +46,7 @@
   ],
   "debug.onTaskErrors": "debugAnyway",
   "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.oxc": "explicit"
   },
