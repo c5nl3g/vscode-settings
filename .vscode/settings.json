@@ -8,6 +8,9 @@
   "[xml]": {
     "editor.defaultFormatter": "redhat.vscode-xml"
   },
+  "[yaml]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
   "cSpell.allowCompoundWords": true,
   "cSpell.userWords": [
     "arktype",
@@ -23,6 +26,7 @@
     "leung",
     "lucide",
     "mdsvex",
+    "nums",
     "Nuxt",
     "nuxtjs",
     "ofetch",
@@ -42,7 +46,9 @@
     "unovis",
     "uuidv",
     "vaul",
-    "vueuse"
+    "vite",
+    "vueuse",
+    "workerd"
   ],
   "debug.onTaskErrors": "debugAnyway",
   "diffEditor.ignoreTrimWhitespace": false,
@@ -136,7 +142,6 @@
   "i18n-ally.autoDetection": false,
   "i18n-ally.displayLanguage": "en",
   "i18n-ally.ignoredLocales": [],
-  "oxc.fmt.configPath": ".oxfmtrc.json",
   "oxc.typeAware": true,
   "python.analysis.typeCheckingMode": "standard",
   "remote.autoForwardPortsSource": "hybrid",
@@ -178,11 +183,13 @@
   "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.splitCwd": "workspaceRoot",
+  "todo-tree.ripgrep.ripgrep": "/usr/bin/rg",
   "vsicons.dontShowNewVersionMessage": true,
   "window.dialogStyle": "custom",
   "window.title": "${rootName}",
   "window.zoomLevel": 1,
   "window.zoomPerWindow": false,
+  "workbench.browser.openLocalhostLinks": false,
   "workbench.colorTheme": "Dark Modern",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
