@@ -91,7 +91,8 @@
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "files.associations": {
-    "*.css": "tailwindcss"
+    "*.css": "tailwindcss",
+    ".zshrc": "shellscript"
   },
   "files.insertFinalNewline": true,
   "files.simpleDialog.enable": true,
