@@ -8,6 +8,7 @@
     "bierner.markdown-mermaid",
     "bradlc.vscode-tailwindcss",
     "csharpier.csharpier-vscode",
+    "davidanson.vscode-markdownlint",
     "donjayamanne.githistory",
     "eamodio.gitlens",
     "effectful-tech.effect-vscode",

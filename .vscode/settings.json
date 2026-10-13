@@ -196,6 +196,21 @@
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.splitCwd": "workspaceRoot",
   "todo-tree.ripgrep.ripgrep": "C:\\Users\\cillian\\AppData\\Local\\Microsoft\\WinGet\\Links\\rg.exe",
+  "vsicons.associations.files": [
+    {
+      "extensions": [
+        "app.config.json",
+        "app.config.ts",
+        "app.config.mts",
+        "app.config.cts",
+        "app.config.mjs",
+        "app.config.cjs",
+        "app.config.js"
+      ],
+      "filename": true,
+      "icon": "ini"
+    }
+  ],
   "vsicons.dontShowNewVersionMessage": true,
   "window.dialogStyle": "custom",
   "window.title": "${rootName}",
